@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamimzen
 - 👀 I’m interested in Laravel
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Laravel :D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://web.facebook.com/tamim.is.faiz/
 
